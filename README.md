@@ -2,7 +2,7 @@
 The **cPrinterManagement** module contains the following resources:
 - **cPrintDriver**: Add or remove print drivers
 - **cPrintDriverSet**: Add or remove multiple print drivers from the same source file
-- **cPrinter**: Add pr remove printers      
+- **cPrinter**: Add or remove printers      
 
 ## Branches
 
